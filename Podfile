@@ -6,5 +6,5 @@ target 'Virus Simulator' do
   use_frameworks!
 
   # Pods for Virus Simulator
-pod 'TableKit'
+
 end
